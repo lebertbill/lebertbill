@@ -3,6 +3,10 @@
 
 - 👨🏾‍💻 I’m currently working on **Developing Monte Carlo statistical algorithm coupled with machine learning models for predicting quantum mechanical properties of materials**
 
+- 📚 You can find my research work [here](https://scholar.google.com/citations?user=Bm4_DnQAAAAJ&hl=en)
+
+- 🌱 I’m currently learning **Hadoop**
+
 - 🏃🏾‍♂️‍➡️ I’m ready to take my talents into **a leading data industry**
 
 - 💬 Ask me about **Monte Carlo statistics, Regression models, Analysing trend and anomalies in any dataset, Automation**
