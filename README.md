@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm LeBert Sam Billgates</h1>
-<h3 align="center">PhD in experimental and theoretical physics, aspiring data scientist and entrepreneur.</h3>
+<h3 align="center">PhD in experimental and theoretical physics, data scientist and entrepreneur.</h3>
 
 - 👨🏾‍💻 I’m currently working on **Developing Monte Carlo statistical algorithm coupled with machine learning models for predicting quantum mechanical properties of materials**
 
@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Hadoop**
 
-- 🏃🏾‍♂️‍➡️ I’m ready to take my talents into **a leading data industry**
+- 🏃🏾‍♂️‍➡️ I’m ready to take my talents to **a leading research laboratory**
 
 - 💬 Ask me about **Monte Carlo statistics, Regression models, Analysing trend and anomalies in any dataset, Automation**
 
