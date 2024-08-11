@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm LeBert Sam Billgates</h1>
-<h3 align="center">PhD in experimental and theoretical physics, data scientist and entrepreneur.</h3>
+<h3 align="center">PhD in experimental and theoretical magnetism, data scientist and entrepreneur.</h3>
 
 - 👨🏾‍💻 I’m currently working on **Developing Monte Carlo statistical algorithm coupled with machine learning models for predicting quantum mechanical properties of materials**
 
