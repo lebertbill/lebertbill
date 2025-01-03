@@ -5,8 +5,6 @@
 
 - 📚 You can find my research work [here](https://scholar.google.com/citations?user=Bm4_DnQAAAAJ&hl=en)
 
-- 🌱 I’m currently learning **Hadoop**
-
 - 🏃🏾‍♂️‍➡️ I’m ready to take my talents to **a leading research laboratory**
 
 - 💬 Ask me about **Monte Carlo statistics, Regression models, Analysing trend and anomalies in any dataset, Automation**
